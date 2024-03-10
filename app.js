@@ -90,6 +90,6 @@ const checkWinner =() => {
         
     }
 };
-
+//this is javascript
 newGameBtn.addEventListener("click",resetGame);
 resetBtn.addEventListener("click",resetGame);
